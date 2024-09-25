@@ -18,7 +18,7 @@ I am an experienced Machine Learning Engineer with a passion for leveraging AI t
 - **Contribution**: Developed and fine-tuned the machine learning model responsible for detecting vacant spots in real-time, leading to significant improvements in parking management.
 - [SpotFinder GitHub Repository](https://github.com/amannain122/spot-finder)
 
-![SpotFinder Example](https://github.com/amannain122/spot-finder/raw/main/image/spotfinder_screenshot.png)
+![SpotFinder Example](https://github.com/amannain122/spot-finder/blob/main/src/images/real_time.png)
 
 ---
 
