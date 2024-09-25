@@ -24,8 +24,8 @@ I am an accomplished Lead Machine Learning Engineer with extensive experience in
 ---
 
 ### SpotFinder: AI-Powered Parking Spot Detection
-- **Role**: Machine Learning Engineer
-- **Contribution**: Developed and optimized machine learning models to detect vacant parking spots, improving parking management systems.
+- **Role**: Machine Learning Engineer and Team Lead
+- **Contribution**: Developed and optimized machine learning models to detect vacant parking spots, improving parking management systems and guided the team to create a functionable structure to run it on AWS.
 - [SpotFinder GitHub Repository](https://github.com/amannain122/spot-finder)
 
 ![SpotFinder Example](https://github.com/amannain122/spot-finder/blob/main/src/images/real_time.png)
@@ -50,7 +50,7 @@ I am an accomplished Lead Machine Learning Engineer with extensive experience in
 ## 🛠️ Skills:
 - **Languages**: Python, SQL, PySpark
 - **Machine Learning**: Deep Learning, Data Wrangling, Data Pipelines
-- **Cloud Platforms**: GCP (BigQuery, Cloud Storage, Composer), AWS (SageMaker, Glue, S3), Azure (Data Factory, ML)
+- **Cloud Platforms**: GCP (BigQuery, Cloud Storage, Composer), AWS (SageMaker, Glue, S3)
 - **Other**: Apache Airflow, Docker, Data Warehousing
 
 ---
