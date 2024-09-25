@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Leandro Sartini
 
-I am an accomplished Lead Machine Learning Engineer with extensive experience in designing and deploying cutting-edge machine learning models and data pipelines. My work has consistently optimized workflows, driven business outcomes, and enabled companies to leverage data more effectively. I hold a Bachelor's in Computer Engineering and am currently pursuing a Graduate Certificate in Artificial Intelligence and Data Science in Canada. I am fluent in English, Portuguese, and Spanish, and I am passionate about solving complex problems using AI.
+I am an accomplished Lead Machine Learning Engineer with extensive experience in designing and deploying cutting-edge machine learning models and data pipelines. My work has consistently optimized workflows, driven business outcomes, and enabled companies to leverage data more effectively. I hold a Bachelor's in Computer Engineering and am currently pursuing a Graduate Certificate in Artificial Intelligence and Data Science in Canada. I am fluent in English, Portuguese, Spanish, I scratch French which I have been learning now, and I am passionate about solving complex problems using AI.
 
 ---
 
