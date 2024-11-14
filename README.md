@@ -1,45 +1,45 @@
 # Hi there! 👋 I'm Leandro Sartini
 
-I am an accomplished Lead Machine Learning Engineer with extensive experience in designing and deploying cutting-edge machine learning models and data pipelines. My work has consistently optimized workflows, driven business outcomes, and enabled companies to leverage data more effectively. I hold a Bachelor's in Computer Engineering and am currently pursuing a Graduate Certificate in Artificial Intelligence and Data Science in Canada. I am fluent in English, Portuguese, Spanish, I scratch French which I have been learning now, and I am passionate about solving complex problems using AI.
+I am a **Lead Machine Learning Engineer** with extensive experience in designing and deploying cutting-edge machine learning models and scalable data pipelines. My work focuses on optimizing workflows, driving impactful business outcomes, and empowering companies to leverage data effectively. I hold a Bachelor's in Computer Engineering and am currently pursuing a Graduate Certificate in Artificial Intelligence and Data Science in Canada. I am fluent in English, Portuguese, and Spanish, with intermediate proficiency in German, and am currently learning French.
 
 ---
 
-## 🔭 What I’m Working On:
-- **SpotFinder** - A computer vision project to detect vacant parking spots using machine learning techniques. I worked as the **Machine Learning Engineer** for this project, contributing to its success in predicting parking availability.
-- Designing robust data architectures using **BigQuery**, **Composer**, and **Google Cloud Storage** to empower companies with real-time analytics and automation.
+## 🔭 What I’m Working On
+- **Empowering Small Businesses** - Assisting small businesses to make data-driven decisions by implementing tailored data solutions, enabling them to optimize their operations and increase revenue.
+- Building robust **data architectures** using **BigQuery**, **Cloud Composer**, and **Google Cloud Storage** to automate real-time analytics for companies.
 
 ---
 
-## 🌟 Key Projects:
+## 🌟 Key Projects
 
-### Lead Machine Learning Engineer:
-- **Role**: Lead Machine Learning Engineer (2024 - Present)
-- **Focus**: Enabled seamless data pipelines and advanced data analytics using **BigQuery**, **Cloud Composer**, and **Cloud Storage**. 
+### Supporting Small Businesses with Data-Driven Insights
+- **Role**: Data Strategy & Machine Learning Consultant
+- **Focus**: Developed custom analytics dashboards and automated reporting pipelines to help small businesses make strategic decisions.
 - **Achievements**:
-   - Automated more than a month’s worth of repetitive tasks for two employees, significantly improving operational efficiency.
-   - Integrated **GitHub** for code versioning, automatically syncing with cloud storage to ensure efficient collaboration and code management.
-   - Implemented a machine learning model that predicted customer churn, resulting in a direct $100K revenue increase for the company.
-   - Built a data warehouse to streamline analytics, reducing the time spent on generating reports by 8 hours per week.
+  - Enabled several businesses to optimize their marketing efforts, resulting in a 20% increase in sales.
+  - Automated financial reporting, saving clients 10+ hours weekly on manual data entry.
+  - Implemented cloud-based solutions to streamline data access and visualization.
+  - Guided and mentored 2 interns, enabling them to transition into full-time Data Engineer roles.
 
 ---
 
-### SpotFinder: AI-Powered Parking Spot Detection
-- **Role**: Machine Learning Engineer and Team Lead
-- **Contribution**: Developed and optimized machine learning models to detect vacant parking spots, improving parking management systems and guided the team to create a functionable structure to run it on AWS.
-- [SpotFinder GitHub Repository](https://github.com/amannain122/spot-finder)
-
-![SpotFinder Example](https://github.com/amannain122/spot-finder/blob/main/src/images/real_time.png)
+### Matera App: Financial Transactions & QR Code Payments
+- **Role**: Lead Machine Learning & Backend Engineer
+- **Contribution**: Developed a seamless payment solution using QR code generation for secure transactions. Built a real-time token-based authentication system using **Firebase** to enhance payment security.
+- **Impact**: Reduced payment processing time by 30% and improved user experience for seamless financial transactions.
 
 ---
 
-### Sales Prediction for Black Friday:
-- **Company**: Mercado Livre (2022 - 2024)
-- **Details**: Developed and deployed a sales prediction model that revolutionized the company’s event forecasting, particularly for high-traffic events like Black Friday.
-- **Impact**: Increased revenue by $2M through optimized promotional strategies and improved customer targeting.
+### Stability AI Photo Transformer: Enhancing Event Experience
+- **Role**: Machine Learning Engineer
+- **Project**: Developed an AI-powered photo transformation app for a major event, **Sephoria**, allowing users to convert their photos into stylized event-themed images.
+- **Contribution**: Built and optimized deep learning models to transform user-uploaded photos, integrating the solution into the client’s event pipeline.
+- **Impact**: Enhanced user engagement at the event, driving interaction and brand visibility.
+- **Mentorship**: Guided 2 interns to successfully transition into Data Engineering roles through hands-on projects and continuous mentorship.
 
 ---
 
-## 💼 Work Experience:
+## 💼 Work Experience
 - **Lead Machine Learning Engineer** (2024 - Present)
 - **Senior Machine Learning Engineer** - Mercado Livre (2022 - 2024)
 - **Data Scientist** - Mercado Livre (2021 - 2022)
@@ -47,7 +47,7 @@ I am an accomplished Lead Machine Learning Engineer with extensive experience in
 
 ---
 
-## 🛠️ Skills:
+## 🛠️ Skills
 - **Languages**: Python, SQL, PySpark
 - **Machine Learning**: Deep Learning, Data Wrangling, Data Pipelines
 - **Cloud Platforms**: GCP (BigQuery, Cloud Storage, Composer), AWS (SageMaker, Glue, S3)
@@ -55,14 +55,16 @@ I am an accomplished Lead Machine Learning Engineer with extensive experience in
 
 ---
 
-## 🎮 Hobbies & Interests:
-When I'm not coding, I love to unwind with some gaming, hit the slopes for snowboarding, or spend time at the gym. I'm also a big fan of languages! Here's my progress:
+## 🎮 Hobbies & Interests
+When I'm not coding, I enjoy gaming, snowboarding, and staying active at the gym. I am also passionate about learning new languages:
 - **Fluent** in: Portuguese, English, Spanish
 - **Intermediate** in: German
 - **Currently Learning**: French
 
 ---
 
-## 📫 Get in Touch:
+## 📫 Get in Touch
 - Email: leandro.sartini.c@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/leandro-sartini/)
+
+---
